@@ -1,5 +1,4 @@
 import prismaClient from "../prisma";
-
 import { io } from "../app";
 
 class CreateMessageService {
